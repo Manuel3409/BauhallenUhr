@@ -1,0 +1,63 @@
+# ==========================================
+# Microsoft Office Temporary Files
+# ==========================================
+# Word temporary files and owner files
+~$.doc
+.~lock..doc
+
+# Excel temporary files and owner files
+~$.xl
+.~lock..xl
+
+# PowerPoint temporary files and owner files
+~$.ppt
+.~lock..ppt
+
+# Access lock files
+.laccdb
+
+# ==========================================
+# LibreOffice  OpenOffice Lock Files
+# ==========================================
+.~lock..odt#
+.~lock..ods#
+.~lock..odp#
+
+# ==========================================
+# Operating System Garbage
+# ==========================================
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+._
+
+# Windows clutter
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==========================================
+# Altium Designer Backup / History Files
+# ==========================================
+# Entire History folders (auto-generated backup versions of docs)
+History/
+**/History/
+
+# Preview cache folders
+__Previews/
+**/__Previews/
+
+# Altium versioned backup files, e.g. Foo.~(3).SchDoc.Zip
+*.~(*).SchDoc.Zip
+*.~(*).PcbDoc.Zip
+*.~(*).PrjPcb.Zip
+*.~(*).PrjPcbStructure
+*.~(*).SchLib.Zip
+*.~(*).PcbLib.Zip
+*.~(*).OutJob.Zip
+
+# Altium project release/output cache
+Project Logs*/
+Project Outputs*/
+*.Bak
