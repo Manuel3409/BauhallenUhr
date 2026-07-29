@@ -220,23 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MUVETMQF
 
 [Document11]
-DocumentPath=Power_Supply_Schematic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=400
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XLPNXVBQ
-
-[Document12]
 DocumentPath=BauhallenUhr.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
