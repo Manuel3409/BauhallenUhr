@@ -1,0 +1,11 @@
+Changes_Schematic
+
+- Speisung Galvanische Trennung sekundär evtl. auf 3.3V --> Logikpegel D+ und D- auch auf 3.3V.
+- Speisungen (Relais entfernen, Betrieb nur mit Netzteil möglich).
+- Spannungsregler > 5V auf 5V
+- Netzteil mit 6 - 12V
+- GND nach Galvanische - Trennung Ändern.
+- 3 GNDs (pro Spannungsquelle 1).
+- Shields auf GND von jeweiligem USB - C Connector.
+- Blackbox: Die unterschiedlichen Boards einrahmen.
+- 
