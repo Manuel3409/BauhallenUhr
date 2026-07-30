@@ -1,0 +1,11 @@
+ToDo
+
+BauhallenUhr
+- BoM
+- Lieferanten suchen
+- Altium Error messages
+- 
+
+LambdaBox
+- Bildschirm ansteuern LambdaBox
+- 
