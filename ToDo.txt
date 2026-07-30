@@ -8,4 +8,5 @@ BauhallenUhr
 
 LambdaBox
 - Bildschirm ansteuern LambdaBox
+- Evtl. SD - Karte bzw. SPI - Theorie anschauen.
 - 
