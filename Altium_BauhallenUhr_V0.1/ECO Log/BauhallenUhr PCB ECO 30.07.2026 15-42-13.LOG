@@ -1,0 +1,22 @@
+Add Pin To Net: Unknown Pin: Pin D7-1-VDD
+Add Pin To Net: Unknown Pin: Pin D7-3-GND
+Add Pin To Net: Unknown Pin: Pin D7-4-DIN
+Added Pin To Net: NetName=D1 Pin=J9-3
+Added Pin To Net: NetName=D5 Pin=J10-3
+Added Pin To Net: NetName=D9 Pin=J11-3
+Added Pin To Net: NetName=D3 Pin=J12-3
+Added Pin To Net: NetName=D7 Pin=J13-3
+Added Pin To Net: NetName=D11 Pin=J14-3
+Added Pin To Net: NetName=D2 Pin=J15-3
+Added Pin To Net: NetName=D6 Pin=J16-3
+Added Pin To Net: NetName=D10 Pin=J17-3
+Added Pin To Net: NetName=D4 Pin=J18-3
+Added Pin To Net: NetName=D8 Pin=J19-3
+Added Pin To Net: NetName=D12 Pin=J20-3
+Add Net: Net with name "+3.3V" already exists
+Add Net: Net with name "+3.3V" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SDA" already exists
+Added Class: Name=D[1..12]
