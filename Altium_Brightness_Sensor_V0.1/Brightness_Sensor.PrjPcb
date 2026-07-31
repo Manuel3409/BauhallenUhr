@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YBGIZGMU
 
 [Document3]
-DocumentPath=aaa_Empty_PCB_2_Layers.PcbDoc
+DocumentPath=Brightness_Sensor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
