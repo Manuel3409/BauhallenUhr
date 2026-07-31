@@ -1,0 +1,98 @@
+# Created by Ultra Librarian 8.3.384 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "RELAY_G5CA_OMR")
+Pad (Name "1") (Location 0, 0) (Slotted False) (HoleSize 39.3699989318848) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.68499947)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer TopLayer)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer BottomLayer)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer MidLayer1)
+EndPad
+Pad (Name "2") (Location 0, -700.0001) (Slotted False) (HoleSize 39.3699989318848) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.68499947)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer TopLayer)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer BottomLayer)
+PadShape (Size 59.36999893, 59.36999893) (Shape Rounded) (Layer MidLayer1)
+EndPad
+Pad (Name "4") (Location 500, 0) (Slotted True) (SlotWidth 78.7399978637695) (SlotHeight 39.3699989318848 (Surface False) (Rotation 90) (ExpandMask 0) (ExpandPaste -49.36999893)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer TopLayer)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer BottomLayer)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer MidLayer1)
+EndPad
+Pad (Name "3") (Location 500, -399.99999596) (Slotted True) (SlotWidth 78.7399978637695) (SlotHeight 39.3699989318848 (Surface False) (Rotation 90) (ExpandMask 0) (ExpandPaste -49.36999893)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer TopLayer)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer BottomLayer)
+PadShape (Size 98.73999786, 59.36999893) (Shape Rounded) (Layer MidLayer1)
+EndPad
+Line (Width 6) (Start -72.99215698, -791.20478647) (End -72.99215698, 90.99998647) (Layer Mechanical15) 
+Line (Width 6) (Start -72.99215698, 90.99998647) (End 572.99215698, 90.99998647) (Layer Mechanical15) 
+Line (Width 6) (Start 572.99215698, 90.99998647) (End 572.99215698, -791.20478647) (Layer Mechanical15) 
+Line (Width 6) (Start 572.99215698, -791.20478647) (End -72.99215698, -791.20478647) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-72.99215698, -791.20478647)
+Point (-72.99215698, 90.99998647)
+Point (572.99215698, 90.99998647)
+Point (572.99215698, -791.20478647)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-62.99215698, -781.20475596)
+Point (-62.99215698, 80.99995596)
+Point (562.99215698, 80.99995596)
+Point (562.99215698, -781.20475596)
+EndPolygon
+Line (Width 6) (Start -67.9921875, -786.20478647) (End 567.9921875, -786.20478647) (Layer TopOverlay) 
+Line (Width 6) (Start 567.9921875, -786.20478647) (End 567.9921875, 85.99998647) (Layer TopOverlay) 
+Line (Width 6) (Start 567.9921875, 85.99998647) (End -67.9921875, 85.99998647) (Layer TopOverlay) 
+Line (Width 6) (Start -67.9921875, 85.99998647) (End -67.9921875, -786.20478647) (Layer TopOverlay) 
+Text (Location 112.5, -375.1024) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value ".Designator")
+Text (Location 112.5, -375.1024) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value ".Designator")
+Line (Width 1) (Start -62.9921875, -781.20478647) (End 562.9921875, -781.20478647) (Layer Mechanical13) 
+Line (Width 1) (Start 562.9921875, -781.20478647) (End 562.9921875, 80.99998647) (Layer Mechanical13) 
+Line (Width 1) (Start 562.9921875, 80.99998647) (End -62.9921875, 80.99998647) (Layer Mechanical13) 
+Line (Width 1) (Start -62.9921875, 80.99998647) (End -62.9921875, -781.20478647) (Layer Mechanical13) 
+Arc (Width 1) (Radius 0) (Location 29.5, -22.00004404) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 1) (Radius 12) (Location 250, 80.99998647) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Text (Location 67.5, -48.20475596) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "G5CA-1A-E DC5") (PartCount 1) (DesPrefix "K?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 1300, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Line (Width 5) (Start 300, 0) (End 450, 0) (Part 1)
+Line (Width 5) (Start 300, -200) (End 450, -200) (Part 1)
+Line (Width 5) (Start 400, -75) (End 500, -75) (Part 1)
+Line (Width 5) (Start 400, -125) (End 500, -125) (Part 1)
+Line (Width 5) (Start 500, -75) (End 500, -125) (Part 1)
+Line (Width 5) (Start 400, -125) (End 400, -75) (Part 1)
+Line (Width 5) (Start 450, 0) (End 450, -75) (Part 1)
+Line (Width 5) (Start 450, -125) (End 450, -200) (Part 1)
+Line (Width 5) (Start 1300, 0) (End 1150, 0) (Part 1)
+Line (Width 5) (Start 1300, -200) (End 1150, -200) (Part 1)
+Line (Width 5) (Start 1150, -200) (End 1125, -200) (Part 1)
+Line (Width 5) (Start 1125, -225) (End 1125, -175) (Part 1)
+Line (Width 5) (Start 1125, -225) (End 1100, -200) (Part 1)
+Line (Width 5) (Start 1100, -200) (End 1125, -175) (Part 1)
+Line (Width 5) (Start 1150, 0) (End 1150, -100) (Part 1)
+Line (Width 5) (Start 1150, -100) (End 1125, -100) (Part 1)
+Line (Width 5) (Start 1125, -100) (End 1075, -200) (Part 1)
+Rectangle (Width 5) (Start 300, -325) (End 1300, 175) (Part 1)
+Polygon (PointCount 3) (Part 1)
+Point (1100, -200)
+Point (1125, -175)
+Point (1125, -225)
+EndPolygon
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2026 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Manufacturer_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Omron") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "G5CA-1A-E DC5") (Part 1)
+Parameter (Name "RefDes") (Location 800, 375) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 800, 275) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "G5CA-1A-E DC5") (Part 1)
+Footprint (Name "RELAY_G5CA_OMR")
+EndComponent
+EndComponents
