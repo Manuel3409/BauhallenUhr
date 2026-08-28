@@ -69,6 +69,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=BauhallenUhr.PrjPcb
+VaultURL=
+VaultName=
 
 [Document2]
 DocumentPath=..\Altium_Brightness_Sensor_V0.1\Brightness_Sensor.PrjPcb
@@ -90,6 +92,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=Brightness_Sensor.PrjPcb
+VaultURL=
+VaultName=
 
 [Document3]
 DocumentPath=BauhallenUhr_MultiBoardSchematic.MbsDoc
@@ -107,6 +111,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=7016b5e5-3963-4abe-9e4a-bbbc7e6f7e0c
+
+[Document4]
+DocumentPath=BauhallenUhr_Assembly_V0.1.MbaDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=82e94dfd-cd18-4e89-b545-34a1b6a33340
 
 [Configuration1]
 Name=Default - All Constraints
