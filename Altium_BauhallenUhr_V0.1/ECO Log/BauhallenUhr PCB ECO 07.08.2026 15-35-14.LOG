@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=U0_RXD Pin=R19-1
+Change Component Footprint: Designator=R19 Old Footprint=1206_Resistor New Footprint=0805_Resistor
+Change Component Comment : Designator=R19 Old Comment=0 New Comment=?

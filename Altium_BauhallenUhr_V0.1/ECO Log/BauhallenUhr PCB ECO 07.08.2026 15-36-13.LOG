@@ -1,0 +1,8 @@
+Added Component: Designator=R19(0805_Resistor)
+Added Component: Designator=R21(0805_Resistor)
+Added Pin To Net: NetName=U0_RXD Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=U0_TXD Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R19 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R21 0
