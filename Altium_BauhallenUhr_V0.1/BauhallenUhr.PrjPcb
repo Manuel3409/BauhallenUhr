@@ -325,20 +325,24 @@ DocumentPath=Project Outputs\Design Rule Check - BauhallenUhr_Variante_4.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Manuel Hueppi
+Name=
+Value=
 
 [Parameter2]
-Name=Departement
-Value=DBAUG
+Name=Revision
+Value=V2.0
 
 [Parameter3]
 Name=Institut
 Value=IBK
 
 [Parameter4]
-Name=Revision
-Value=V0.1
+Name=Departement
+Value=DBAUG
+
+[Parameter5]
+Name=Author
+Value=Manuel Hueppi
 
 [Configuration1]
 Name=M1_Outputs
