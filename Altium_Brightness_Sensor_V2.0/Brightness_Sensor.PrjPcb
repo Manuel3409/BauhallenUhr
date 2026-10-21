@@ -185,24 +185,28 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=Manuel Hueppi
+Name=
+Value=
 
 [Parameter2]
-Name=Departement
-Value=DBAUG
+Name=Revision
+Value=V1.0
 
 [Parameter3]
-Name=Institut
-Value=IBK
-
-[Parameter4]
 Name=Number
 Value=-
 
+[Parameter4]
+Name=Institut
+Value=IBK
+
 [Parameter5]
-Name=Revision
-Value=V0.1
+Name=Departement
+Value=DBAUG
+
+[Parameter6]
+Name=Author
+Value=Manuel Hueppi
 
 [Configuration1]
 Name=M1_Outputs
