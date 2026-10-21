@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=7016b5e5-3963-4abe-9e4a-bbbc7e6f7e0c
 
 [Document2]
-DocumentPath=BauhallenUhr_Assembly_V0.1.MbaDoc
+DocumentPath=Assembly_BauhallenUhr_V2.0.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,6 +103,27 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=BauhallenUhr.PrjPcb
+
+[Document4]
+DocumentPath=..\Altium_Brightness_Sensor_V1.0\Brightness_Sensor.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+VaultGUID=
+ManagedProjectGUID=
+RevisionGUID=
+ProjectName=Brightness_Sensor.PrjPcb
 
 [Configuration1]
 Name=Default - All Constraints
