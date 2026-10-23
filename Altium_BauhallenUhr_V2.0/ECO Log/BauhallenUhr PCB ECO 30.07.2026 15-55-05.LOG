@@ -1,0 +1,632 @@
+Added Component: Designator=C1(0603_CAPACITOR)
+Added Component: Designator=C2(0603_CAPACITOR)
+Added Component: Designator=C3(0603_CAPACITOR)
+Added Component: Designator=C4(0603_CAPACITOR)
+Added Component: Designator=C5(0603_CAPACITOR)
+Added Component: Designator=C6(0603_CAPACITOR)
+Added Component: Designator=C7(0603_CAPACITOR)
+Added Component: Designator=C8(0603_CAPACITOR)
+Added Component: Designator=C9(0603_CAPACITOR)
+Added Component: Designator=C10(0603_CAPACITOR)
+Added Component: Designator=C11(0603_CAPACITOR)
+Added Component: Designator=C12(0603_CAPACITOR)
+Added Component: Designator=C13(0603_CAPACITOR)
+Added Component: Designator=C14(0603_CAPACITOR)
+Added Component: Designator=C15(0603_CAPACITOR)
+Added Component: Designator=C16(0603_CAPACITOR)
+Added Component: Designator=C17(0603_CAPACITOR)
+Added Component: Designator=C18(0603_CAPACITOR)
+Added Component: Designator=C19(0603_CAPACITOR)
+Added Component: Designator=C20(0603_CAPACITOR)
+Added Component: Designator=C21(0603_CAPACITOR)
+Added Component: Designator=C22(0603_CAPACITOR)
+Added Component: Designator=C23(0603_CAPACITOR)
+Added Component: Designator=D1(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D2(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D3(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D4(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D5(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D6(ESD_Protecction_Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD5B5-0ST1G/1792206"; VariantName = "[No Variations]"
+Added Component: Designator=D7(WS2812B)
+Added Component: Designator=F1(Fuse)
+Added Component: Designator=J1(RJ45)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RJE091884511C/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RJE091884511C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RJE091884511C/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J4(RJ45)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RJE091884511C/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RJE091884511C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RJE091884511C/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(USB4105-GF-A)
+Added Component: Designator=J6(USB4105-GF-A)
+Added Component: Designator=J7(DC_PowerJack_THT)
+Added Component: Designator=J8(Screw_Connector)
+Added Component: Designator=J9(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J10(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J11(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J12(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J13(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J14(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J15(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J16(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J17(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J18(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J19(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=J20(Connector_SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/jst-sales-america-inc/B4B-PH-SM4-TB/926643"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED_0603, GREEN)
+Added Component: Designator=LED2(LED_0603, GREEN)
+Added Component: Designator=MEC1(Mounting Hole M3, plated)
+Added Component: Designator=MEC2(Mounting Hole M3, plated)
+Added Component: Designator=MEC3(Mounting Hole M3, plated)
+Added Component: Designator=MEC4(Mounting Hole M3, plated)
+Added Component: Designator=MEC5(Mounting Hole M3, plated)
+Added Component: Designator=MEC6(Mounting Hole M3, plated)
+Added Component: Designator=MEC7(Mounting Hole M3, plated)
+Added Component: Designator=MEC8(Mounting Hole M3, plated)
+Added Component: Designator=Q1(NPN_Bipolar_Transistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/guangdong-inmark-electronics-co-ltd/SS8050/28539054"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(NPN_Bipolar_Transistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/guangdong-inmark-electronics-co-ltd/SS8050/28539054"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(PNP_Bipolar_Transistor)
+Added Component: Designator=R1(0603_Resistor)
+Added Component: Designator=R2(0603_Resistor)
+Added Component: Designator=R3(0603_Resistor)
+Added Component: Designator=R4(0603_Resistor)
+Added Component: Designator=R5(0603_Resistor)
+Added Component: Designator=R6(0603_Resistor)
+Added Component: Designator=R7(0603_Resistor)
+Added Component: Designator=R8(0603_Resistor)
+Added Component: Designator=R9(0603_Resistor)
+Added Component: Designator=R10(0603_Resistor)
+Added Component: Designator=R11(0603_Resistor)
+Added Component: Designator=R12(0603_Resistor)
+Added Component: Designator=R13(0603_Resistor)
+Added Component: Designator=R14(0603_Resistor)
+Added Component: Designator=R15(0603_Resistor)
+Added Component: Designator=R16(0603_Resistor)
+Added Component: Designator=R17(0603_Resistor)
+Added Component: Designator=R18(0603_Resistor)
+Added Component: Designator=R19(0603_Resistor)
+Added Component: Designator=R20(0603_Resistor)
+Added Component: Designator=R21(0603_Resistor)
+Added Component: Designator=R22(0603_Resistor)
+Added Component: Designator=R23(0603_Resistor)
+Added Component: Designator=R24(0603_Resistor)
+Added Component: Designator=R25(0603_Resistor)
+Added Component: Designator=R26(0603_Resistor)
+Added Component: Designator=R27(0603_Resistor)
+Added Component: Designator=R28(0603_Resistor)
+Added Component: Designator=R29(0603_Resistor)
+Added Component: Designator=R30(0603_Resistor)
+Added Component: Designator=R31(0603_Resistor)
+Added Component: Designator=R32(0603_Resistor)
+Added Component: Designator=R33(0603_Resistor)
+Added Component: Designator=R34(0603_Resistor)
+Added Component: Designator=R35(0603_Resistor)
+Added Component: Designator=R36(0603_Resistor)
+Added Component: Designator=R37(0603_Resistor)
+Added Component: Designator=R38(0603_Resistor)
+Added Component: Designator=R39(0603_Resistor)
+Added Component: Designator=R40(0603_Resistor)
+Added Component: Designator=S1(PTS636SK25SMTR)
+Added Component: Designator=S2(PTS636SK25SMTR)
+Added Component: Designator=TP1(Testpoint S2761-46R)
+Added Component: Designator=TP2(Testpoint S2761-46R)
+Added Component: Designator=TP3(Testpoint S2761-46R)
+Added Component: Designator=TP4(Testpoint S2761-46R)
+Added Component: Designator=U1(Optocoupler)
+Added Component: Designator=U2(LD1117S33CTR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.ch/en/products/detail/stmicroelectronics/LD1117S33CTR/585765"; VariantName = "[No Variations]"
+Added Component: Designator=U3(USB_Digital_Isolator_A)
+Added Component: Designator=U4(USB_Digital_Isolator_A)
+Added Component: Designator=U5(CP2102N-A02-GQFN28R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplierlink"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.ch/en/products/detail/silicon-laboratories-inc/CP2102N-A02-GQFN28R/9863486?utm_source=findchips&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Added Component: Designator=U6(ESP32-S3-WROOM-2)
+Add component (AddParameter): Name = "Assembly Technology"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Show Datasheet on SMS Drive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "P:\Electronic Workshop\Datasheets (Refered in Libraries - Don't Change!)\ESP32-S3-WROOM-2-N32R16V_Digikey_1965-ESP32-S3-WROOM-2-N32R16VCT-ND.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Latest Revision Date"; Value = "17.10.2025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Latest Revision Made By"; Value = "Simon Gimple"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Latest Revision Note"; Value = "New Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-S3-WROOM-2-N32R16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMS-Lab Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1965-ESP32-S3-WROOM-2-N32R16VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "356-SP32S3WM2N32R16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(DBV0005A_L_Single_Bus_Buffer_Gate)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/SN74LVC1G126DBVR/385722"; VariantName = "[No Variations]"
+Added Component: Designator=U8(DBV0005A_L_Single_Bus_Buffer_Gate)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(Brightness_Sensor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ch/en/products/detail/vishay-semiconductor-opto-division/VEML7700-TR/5820243"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_A Pin=C1-1
+Added Pin To Net: NetName=VBUS_A Pin=C1-2
+Added Pin To Net: NetName=GND_B Pin=C2-1
+Added Pin To Net: NetName=VBUS_B Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND_A Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND_B Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC4_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3.3V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC8_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3.3V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3.3V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3.3V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3.3V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=EN Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=EN Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GPIO0 Pin=C19-2
+Added Pin To Net: NetName=GND_A Pin=D1-A
+Added Pin To Net: NetName=VBUS_A Pin=D1-K
+Added Pin To Net: NetName=GND_B Pin=D2-A
+Added Pin To Net: NetName=VBUS_B Pin=D2-K
+Added Pin To Net: NetName=GND_A Pin=D3-A
+Added Pin To Net: NetName=USB_DN Pin=D3-K
+Added Pin To Net: NetName=GND_B Pin=D4-A
+Added Pin To Net: NetName=GPIO19 Pin=D4-K
+Added Pin To Net: NetName=GND_A Pin=D5-A
+Added Pin To Net: NetName=USB_DP Pin=D5-K
+Added Pin To Net: NetName=GND_B Pin=D6-A
+Added Pin To Net: NetName=GPIO20 Pin=D6-K
+Add Pin To Net: Unknown Pin: Pin D7-1-VDD
+Add Pin To Net: Unknown Pin: Pin D7-3-GND
+Add Pin To Net: Unknown Pin: Pin D7-4-DIN
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+3.3V Pin=J1-4
+Added Pin To Net: NetName=+3.3V Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+3.3V Pin=J2-2
+Added Pin To Net: NetName=SDA Pin=J3-3
+Added Pin To Net: NetName=SCL Pin=J3-4
+Added Pin To Net: NetName=SDA Pin=J4-6
+Added Pin To Net: NetName=SCL Pin=J4-7
+Added Pin To Net: NetName=GND_A Pin=J5-A1_B12
+Added Pin To Net: NetName=VBUS_A Pin=J5-A4_B9
+Added Pin To Net: NetName=NetJ5_A5 Pin=J5-A5
+Added Pin To Net: NetName=USB_DP Pin=J5-A6
+Added Pin To Net: NetName=USB_DN Pin=J5-A7
+Added Pin To Net: NetName=GND_A Pin=J5-B1_A12
+Added Pin To Net: NetName=VBUS_A Pin=J5-B4_A9
+Added Pin To Net: NetName=NetJ5_B5 Pin=J5-B5
+Added Pin To Net: NetName=USB_DP Pin=J5-B6
+Added Pin To Net: NetName=USB_DN Pin=J5-B7
+Added Pin To Net: NetName=GND_A Pin=J5-SH1
+Added Pin To Net: NetName=GND_A Pin=J5-SH2
+Added Pin To Net: NetName=GND_A Pin=J5-SH3
+Added Pin To Net: NetName=GND_A Pin=J5-SH4
+Added Pin To Net: NetName=GND_B Pin=J6-A1_B12
+Added Pin To Net: NetName=VBUS_B Pin=J6-A4_B9
+Added Pin To Net: NetName=NetJ6_A5 Pin=J6-A5
+Added Pin To Net: NetName=GPIO20 Pin=J6-A6
+Added Pin To Net: NetName=GPIO19 Pin=J6-A7
+Added Pin To Net: NetName=GND_B Pin=J6-B1_A12
+Added Pin To Net: NetName=VBUS_B Pin=J6-B4_A9
+Added Pin To Net: NetName=NetJ6_B5 Pin=J6-B5
+Added Pin To Net: NetName=GPIO20 Pin=J6-B6
+Added Pin To Net: NetName=GPIO19 Pin=J6-B7
+Added Pin To Net: NetName=GND_B Pin=J6-SH1
+Added Pin To Net: NetName=GND_B Pin=J6-SH2
+Added Pin To Net: NetName=GND_B Pin=J6-SH3
+Added Pin To Net: NetName=GND_B Pin=J6-SH4
+Added Pin To Net: NetName=NetF1_1 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=DATA Pin=J8-3
+Added Pin To Net: NetName=+5V Pin=J9-2
+Added Pin To Net: NetName=D1 Pin=J9-3
+Added Pin To Net: NetName=+5V Pin=J10-2
+Added Pin To Net: NetName=D5 Pin=J10-3
+Added Pin To Net: NetName=+5V Pin=J11-2
+Added Pin To Net: NetName=D9 Pin=J11-3
+Added Pin To Net: NetName=+5V Pin=J12-2
+Added Pin To Net: NetName=D3 Pin=J12-3
+Added Pin To Net: NetName=+5V Pin=J13-2
+Added Pin To Net: NetName=D7 Pin=J13-3
+Added Pin To Net: NetName=+5V Pin=J14-2
+Added Pin To Net: NetName=D11 Pin=J14-3
+Added Pin To Net: NetName=+5V Pin=J15-2
+Added Pin To Net: NetName=D2 Pin=J15-3
+Added Pin To Net: NetName=+5V Pin=J16-2
+Added Pin To Net: NetName=D6 Pin=J16-3
+Added Pin To Net: NetName=+5V Pin=J17-2
+Added Pin To Net: NetName=D10 Pin=J17-3
+Added Pin To Net: NetName=+5V Pin=J18-2
+Added Pin To Net: NetName=D4 Pin=J18-3
+Added Pin To Net: NetName=+5V Pin=J19-2
+Added Pin To Net: NetName=D8 Pin=J19-3
+Added Pin To Net: NetName=+5V Pin=J20-2
+Added Pin To Net: NetName=D12 Pin=J20-3
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=GND Pin=LED1-K
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=RTS Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=DTR Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=TX_EN Pin=Q3-3
+Added Pin To Net: NetName=NetJ5_B5 Pin=R1-1
+Added Pin To Net: NetName=GND_A Pin=R1-2
+Added Pin To Net: NetName=NetJ5_A5 Pin=R2-1
+Added Pin To Net: NetName=GND_A Pin=R2-2
+Added Pin To Net: NetName=NetJ6_B5 Pin=R3-1
+Added Pin To Net: NetName=GND_B Pin=R3-2
+Added Pin To Net: NetName=NetJ6_A5 Pin=R4-1
+Added Pin To Net: NetName=GND_B Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=VBUS_A Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R6-1
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Added Pin To Net: NetName=NetC3_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Pin To Net: NetName=USB_DN Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=USB_DP Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=GPIO19 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=GPIO20 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR7_2 Pin=R13-1
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Pin To Net: NetName=U0_RXD Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=+3.3V Pin=R15-2
+Added Pin To Net: NetName=U0_TXD Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=USB_DN_2 Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=USB_DP_2 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=GPIO19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=GPIO20_2 Pin=R20-2
+Added Pin To Net: NetName=NetLED1_A Pin=R21-1
+Added Pin To Net: NetName=NetC8_2 Pin=R21-2
+Added Pin To Net: NetName=NetC8_2 Pin=R22-1
+Added Pin To Net: NetName=+3.3V Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=EN Pin=R24-1
+Added Pin To Net: NetName=+3.3V Pin=R24-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R25-1
+Added Pin To Net: NetName=DTR Pin=R25-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R26-1
+Added Pin To Net: NetName=RTS Pin=R26-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R27-1
+Added Pin To Net: NetName=EN Pin=R27-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R28-1
+Added Pin To Net: NetName=GPIO0 Pin=R28-2
+Added Pin To Net: NetName=GPIO0 Pin=R29-1
+Added Pin To Net: NetName=+3.3V Pin=R29-2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R32-1
+Added Pin To Net: NetName=SERVO_TXD Pin=R32-2
+Added Pin To Net: NetName=SERVO_TXD Pin=R33-1
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=TX_EN Pin=R34-2
+Added Pin To Net: NetName=NetR34_1 Pin=R35-2
+Added Pin To Net: NetName=DATA Pin=R36-1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetLED2_A Pin=R38-1
+Added Pin To Net: NetName=SDA Pin=R39-1
+Added Pin To Net: NetName=SCL Pin=R40-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=EN Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GPIO0 Pin=S2-2
+Added Pin To Net: NetName=+5V Pin=TP1-1
+Added Pin To Net: NetName=NetC8_2 Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-1
+Added Pin To Net: NetName=GND_A Pin=U1-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetC8_2 Pin=U2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-3
+Added Pin To Net: NetName=NetC8_2 Pin=U2-4
+Added Pin To Net: NetName=VBUS_A Pin=U3-1
+Added Pin To Net: NetName=GND_A Pin=U3-2
+Added Pin To Net: NetName=NetC5_1 Pin=U3-3
+Added Pin To Net: NetName=NetC5_1 Pin=U3-4
+Added Pin To Net: NetName=NetC5_1 Pin=U3-5
+Added Pin To Net: NetName=NetR9_2 Pin=U3-6
+Added Pin To Net: NetName=NetR10_2 Pin=U3-7
+Added Pin To Net: NetName=GND_A Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=NetR18_1 Pin=U3-10
+Added Pin To Net: NetName=NetR17_1 Pin=U3-11
+Added Pin To Net: NetName=+3.3V Pin=U3-12
+Added Pin To Net: NetName=+3.3V Pin=U3-13
+Added Pin To Net: NetName=+3.3V Pin=U3-14
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=+3.3V Pin=U3-16
+Added Pin To Net: NetName=VBUS_B Pin=U4-1
+Added Pin To Net: NetName=GND_B Pin=U4-2
+Added Pin To Net: NetName=NetC6_1 Pin=U4-3
+Added Pin To Net: NetName=NetC6_1 Pin=U4-4
+Added Pin To Net: NetName=NetC6_1 Pin=U4-5
+Added Pin To Net: NetName=NetR11_2 Pin=U4-6
+Added Pin To Net: NetName=NetR12_2 Pin=U4-7
+Added Pin To Net: NetName=GND_B Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=NetR20_1 Pin=U4-10
+Added Pin To Net: NetName=NetR19_1 Pin=U4-11
+Added Pin To Net: NetName=+3.3V Pin=U4-12
+Added Pin To Net: NetName=+3.3V Pin=U4-13
+Added Pin To Net: NetName=+3.3V Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=+3.3V Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=USB_DP_2 Pin=U5-4
+Added Pin To Net: NetName=USB_DN_2 Pin=U5-5
+Added Pin To Net: NetName=+3.3V Pin=U5-6
+Added Pin To Net: NetName=+3.3V Pin=U5-7
+Added Pin To Net: NetName=NetC3_1 Pin=U5-8
+Added Pin To Net: NetName=NetR15_1 Pin=U5-9
+Added Pin To Net: NetName=NetR23_2 Pin=U5-11
+Added Pin To Net: NetName=RTS Pin=U5-24
+Added Pin To Net: NetName=NetR14_2 Pin=U5-25
+Added Pin To Net: NetName=NetR16_2 Pin=U5-26
+Added Pin To Net: NetName=DTR Pin=U5-28
+Added Pin To Net: NetName=GND Pin=U5-29
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=+3.3V Pin=U6-2
+Added Pin To Net: NetName=EN Pin=U6-3
+Added Pin To Net: NetName=D3 Pin=U6-4
+Added Pin To Net: NetName=D4 Pin=U6-5
+Added Pin To Net: NetName=D5 Pin=U6-6
+Added Pin To Net: NetName=D6 Pin=U6-7
+Added Pin To Net: NetName=D12 Pin=U6-8
+Added Pin To Net: NetName=SERVO_TXD Pin=U6-10
+Added Pin To Net: NetName=NetR37_1 Pin=U6-11
+Added Pin To Net: NetName=GPIO19_2 Pin=U6-13
+Added Pin To Net: NetName=GPIO20_2 Pin=U6-14
+Added Pin To Net: NetName=NetR31_1 Pin=U6-16
+Added Pin To Net: NetName=D7 Pin=U6-18
+Added Pin To Net: NetName=D8 Pin=U6-19
+Added Pin To Net: NetName=D9 Pin=U6-20
+Added Pin To Net: NetName=D10 Pin=U6-21
+Added Pin To Net: NetName=D11 Pin=U6-22
+Added Pin To Net: NetName=NetR30_1 Pin=U6-26
+Added Pin To Net: NetName=GPIO0 Pin=U6-27
+Added Pin To Net: NetName=NetD7_4-DIN Pin=U6-31
+Added Pin To Net: NetName=U0_RXD Pin=U6-36
+Added Pin To Net: NetName=U0_TXD Pin=U6-37
+Added Pin To Net: NetName=D2 Pin=U6-38
+Added Pin To Net: NetName=D1 Pin=U6-39
+Added Pin To Net: NetName=GND Pin=U6-40
+Added Pin To Net: NetName=GND Pin=U6-41
+Added Pin To Net: NetName=TX_EN Pin=U7-1
+Added Pin To Net: NetName=SERVO_TXD Pin=U7-2
+Added Pin To Net: NetName=DATA Pin=U7-4
+Added Pin To Net: NetName=TX_EN Pin=U8-1
+Added Pin To Net: NetName=DATA Pin=U8-2
+Added Pin To Net: NetName=NetR37_1 Pin=U8-4
+Added Pin To Net: NetName=SCL Pin=U9-1
+Added Pin To Net: NetName=SDA Pin=U9-4
+Add Net: Net with name "+3.3V" already exists
+Add Net: Net with name "+3.3V" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SDA" already exists
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C1 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C2 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C3 1u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C4 10u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C5 10n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C6 10n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C7 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C8 10u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C9 10n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C10 10n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C11 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C12 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C13 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C14 10u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C15 10u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C16 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C17 1u
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C18 N.P
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component C19 1u
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component C20 100n
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component C21 100n
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component C22 10u
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component C23 100n
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D1 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D2 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D3 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D4 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D5 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D6 ESD5B5.0ST1G
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component D7 WS2812B
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component F1 0154010.DR
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component J1 RJE091884511C
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component J2 B4B-PH-SM4-TB
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component J3 B4B-PH-SM4-TB
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component J4 RJE091884511C
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component J5 USB4105-GF-A
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component J6 USB4105-GF-A
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component J7 694106301002
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component J8 691214110003
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J9 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J10 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J11 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J12 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J13 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J14 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J15 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J16 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J17 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J18 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J19 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_LED_16x_Schematic Member=Component J20 B4B-PH-SM4-TB
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component LED1 GREEN
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component LED2 GREEN
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component MEC1 Mounting Hole M3, plated
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component MEC2 Mounting Hole M3, plated
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component MEC3 Mounting Hole M3, plated
+Added Member To Class: ClassName=Blackbox_BauhallenUhr_Schematic Member=Component MEC4 Mounting Hole M3, plated
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component MEC5 Mounting Hole M3, plated
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component MEC6 Mounting Hole M3, plated
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component MEC7 Mounting Hole M3, plated
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component MEC8 Mounting Hole M3, plated
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component Q1 SS8050
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component Q2 SS8050
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component Q3 S8550
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R1 5.1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R2 5.1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R3 5.1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R4 5.1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R5 360
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R6 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R7 22.1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R8 47.5k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R9 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R10 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R11 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R12 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R13 N.P
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R14 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R15 1k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R16 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R17 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R18 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R19 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R20 24
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R21 3.3k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R22 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R23 N.P
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R24 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R25 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R26 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R27 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R28 0
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R29 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R30 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component R31 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R32 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R33 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R34 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R35 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R36 10k
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component R37 10k
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component R38 3.3k
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component R39 10k
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component R40 10k
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component S1 ?
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component S2 ?
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component TP1 Testpoint S2761-46R
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component TP2 Testpoint S2761-46R
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component TP3 Testpoint S2761-46R
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component TP4 Testpoint S2761-46R
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U1 TLP291(GB-TP,SE)
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U2 LD1117S33CTR
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U3 ADUM3160BRWZ
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U4 ADUM3160BRWZ
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U5 CP2102N-A02-GQFN28R
+Added Member To Class: ClassName=U_ESP32_S3_Wroom2_Schematic Member=Component U6 ESP32-S3-WROOM-2
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component U7 SN74LVC1G126DBVR
+Added Member To Class: ClassName=U_St3025_Servo_Schematic Member=Component U8 SN74LVC1G125DBVR
+Added Member To Class: ClassName=U_Brightness_Sensor_Schematic Member=Component U9 VEML7700-TR
